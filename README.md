@@ -29,7 +29,7 @@ Instant is a modern Firebase. We make you productive by giving your frontend a r
 
 You write [relational queries](https://www.instantdb.com/docs/instaql) in the shape of the data you want and Instant handles all the data fetching, permission checking, and offline caching. When you [change data](https://www.instantdb.com/docs/instaml), optimistic updates and rollbacks are handled for you as well. Plus, every query is multiplayer by default.
 
-We also support [ephemeral](https://www.instantdb.com/docs/presence-and-topics) updates, like cursors, or who's online. Currently we have SDKs for [Javascript](https://www.instantdb.com/docs/start-vanilla), [React](https://www.instantdb.com/docs/), and [React Native](https://www.instantdb.com/docs/start-rn).
+We also support [ephemeral](https://www.instantdb.com/docs/presence-and-topics) updates, like cursors, or who's online. Currently we have SDKs for [Javascript](https://www.instantdb.com/docs/start-vanilla), [React](https://www.instantdb.com/docs/), [React Native](https://www.instantdb.com/docs/start-rn), and [Python](python/README.md).
 
 How does it look? Here's a barebones chat app in about 12 lines:
 
